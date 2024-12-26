@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>Weather App to fetch details</h1>
+    <h1>Weather App</h1>
     <form method="GET" action="">
         <label for="city">Enter City:</label>
         <input type="text" id="city" name="city" required>
